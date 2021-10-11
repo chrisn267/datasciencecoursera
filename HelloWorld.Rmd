@@ -2,7 +2,9 @@
 title: "HelloWorld"
 author: "Chris N"
 date: "11/10/2021"
-output: md_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ## This is a markdown file
